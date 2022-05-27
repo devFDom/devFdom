@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
+
+![https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://media.giphy.com/media/l0HlxToy3VhOg0DRe/giphy.gif)
 
 <!--
 **devFdom/devFdom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
