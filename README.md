@@ -1,3 +1,6 @@
+<img align="center" src="./header.gif" width="850" height="480"/>
+<hr>
+
 <h1 align="center">Hi 👋, I'm Fran</h1>
 <h3 align="center">A passionate student fullstack developer from Sevilla, Spain</h3>
 
