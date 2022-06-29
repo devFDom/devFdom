@@ -1,4 +1,4 @@
-<img align="center" src="./devfdom.gif" width="850" height="480"/>
+<img align="center" src="./devFdom.gif" width="700"/>
 <hr>
 
 <h1 align="center">Hi 👋, I'm Fran</h1>
